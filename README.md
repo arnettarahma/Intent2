@@ -1,12 +1,4 @@
 ## Intent2
-* id.sch.smktelkom_mlg.learn.intent2
-
-## Identitas
-* Nama  : Arnetta Rahmawati
-* Kelas : XI RPL 4
-* Absen : 8
-* NIS   : 4673/1392.070
-* Sekolah : SMK Telkom Malang
 
 ## Screenshot Aplikasi
 <p align="center">
@@ -16,3 +8,11 @@
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/22093237/22645417/8295f998-ec99-11e6-93b1-908dfdc23737.png" width="350"/>
 </p>
+
+## Identitas
+* Nama  : Arnetta Rahmawati
+* Kelas : XI RPL 4
+* Absen : 8
+* NIS   : 4673/1392.070
+* Sekolah : SMK Telkom Malang
+
